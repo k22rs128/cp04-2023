@@ -55,6 +55,7 @@ button{
         font-size: 20px;
         position:absolute; top:380px; left:2%; width:43%; height:60px; 
         background-color: magenta;
+        color: mediumspringgreen;
     }
     
     #btnB {
