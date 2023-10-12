@@ -2,6 +2,10 @@
 body{
     background-color: skyblue;
 }
+
+button{
+    color: slateblue
+};
     #minuteStr {
         color: #ff0000;
         font-size: 20px;
