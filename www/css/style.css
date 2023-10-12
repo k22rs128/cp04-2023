@@ -4,8 +4,10 @@ body{
 }
 
 button{
-    color: slateblue
-};
+    color: slateblue;
+    font-family: Times;
+
+}
     #minuteStr {
         color: #ff0000;
         font-size: 20px;
