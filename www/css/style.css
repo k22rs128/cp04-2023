@@ -43,6 +43,7 @@ button{
         position:absolute; top:340px; 
         left:10px; right:10px;
         box-shadow: 5px 5px 5px;
+        width: 50%;
     }
     
     #mycanvas {
